@@ -1,3 +1,4 @@
+
 # E-Commerce-Back-End
 Week 13 Homework
 
@@ -48,11 +49,12 @@ Contributors welcome.
 
 ## Screenshots
 
-
+![database screenshot](https://user-images.githubusercontent.com/76650898/121027604-417c4200-c7e6-11eb-87b4-b6ad6a298249.JPG)
 
 ## Video
 
 Populating database: https://drive.google.com/file/d/1Zw2ZyD5Wn3_Cd6tJHPG_s3k2hRxEBHV9/view
+
 
 
 ## Questions
