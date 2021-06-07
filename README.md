@@ -52,6 +52,7 @@ Contributors welcome.
 
 ## Video
 
+Populating database: https://drive.google.com/file/d/1Zw2ZyD5Wn3_Cd6tJHPG_s3k2hRxEBHV9/view
 
 
 ## Questions
